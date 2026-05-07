@@ -9,6 +9,8 @@
 -  I'm open to collaborating on Web Development projects
 -  Fun Fact — I love turning ideas into real applications
 
+  ---
+
   ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/hafeez-mohd/))
