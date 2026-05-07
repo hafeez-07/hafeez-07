@@ -15,12 +15,6 @@
 
   ---
 
-  ## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/hafeez-mohd/))
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafeezmohammad689@gmail.com)
-
----
 
 # 💻 Tech Stack:
 
@@ -49,6 +43,40 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+# 🔭 Currently Working On
+
+- Learning Next.js deeply
+- Building Full Stack MERN Projects
+
+---
+
+# 🚀 Featured Projects
+
+## 📝 VaultNote
+A full-stack MERN notes application with authentication and modern responsive UI.
+
+🔗 Live Demo: [View Project]((https://voicenote-alpha.vercel.app/))  📂 GitHub Repo: [Repository]((https://github.com/hafeez-07/voice-vault))
+
+
+## ✍️ VaultVoice
+A server-rendered blogging platform built using Node.js, Express, and EJS.
+
+🔗 Live Demo: [View Project](https://voice-vault-sbrg.onrender.com/))  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/voice-vault)
+
+
+
+## 🔥 NoZeroDays App
+A productivity-focused web application designed to help users stay consistent and track progress.
+
+🔗 Live Demo: [View Project](https://react-no-zero-days-app.vercel.app/)  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/react-no-zero-days-app)
+
+
+## 🎬 MovieSearch App
+A movie discovery application that fetches and displays movie data using external APIs.
+
+🔗 Live Demo: [View Project]((https://react-movie-search-app-mu.vercel.app/))  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/react-movie-search-app)
 
 ---
 
@@ -61,3 +89,26 @@
 ## 📈 Contribution Graph
 
 [![Hafeez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hafeez-07&theme=tokyo-night)](https://github.com/hafeez-07)
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hafeez-mohd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:hafeezmohammad689@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/hafeez-07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
