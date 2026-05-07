@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="personal-banner.png" width="100%" />
+</p>
+
 <h1 align="center">Hello 👋, I'm Hafeez Mohammad</h1>
 
 <h3 align="center">A passionate Full Stack Developer in progress!</h3>
