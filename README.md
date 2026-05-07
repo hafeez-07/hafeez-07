@@ -9,7 +9,7 @@
 -  I'm open to collaborating on Web Development projects
 -  Fun Fact — I love turning ideas into real applications
 
-  ---
+  --
 
   ## 🌐 Socials:
 
