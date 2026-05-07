@@ -57,13 +57,13 @@
 ## 📝 VaultNote
 A full-stack MERN notes application with authentication and modern responsive UI.
 
-🔗 Live Demo: [View Project]((https://voicenote-alpha.vercel.app/))  📂 GitHub Repo: [Repository]((https://github.com/hafeez-07/voice-vault))
+🔗 Live Demo: [View Project](https://voicenote-alpha.vercel.app/)  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/voice-vault)
 
 
 ## ✍️ VaultVoice
 A server-rendered blogging platform built using Node.js, Express, and EJS.
 
-🔗 Live Demo: [View Project](https://voice-vault-sbrg.onrender.com/))  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/voice-vault)
+🔗 Live Demo: [View Project](https://voice-vault-sbrg.onrender.com/)  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/voice-vault)
 
 
 
@@ -76,7 +76,7 @@ A productivity-focused web application designed to help users stay consistent an
 ## 🎬 MovieSearch App
 A movie discovery application that fetches and displays movie data using external APIs.
 
-🔗 Live Demo: [View Project]((https://react-movie-search-app-mu.vercel.app/))  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/react-movie-search-app)
+🔗 Live Demo: [View Project](https://react-movie-search-app-mu.vercel.app/)  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/react-movie-search-app)
 
 ---
 
