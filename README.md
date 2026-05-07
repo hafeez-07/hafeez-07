@@ -51,3 +51,9 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hafeez-07&theme=tokyonight&hide_border=false)
+
+---
+
+## 📈 Contribution Graph
+
+[![Hafeez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hafeez-07&theme=tokyo-night)](https://github.com/hafeez-07)
