@@ -2,7 +2,7 @@
   <img src="personal-banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hello 👋, I'm Hafeez Mohammad</h1>
+<h1 align="center">Hello , I'm Hafeez Mohammad</h1>
 
 <h3 align="center">A passionate Full Stack Developer in progress!</h3>
 
@@ -16,7 +16,7 @@
   ---
 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,54 +45,54 @@
 
 ---
 
-# 🔭 Currently Working On
+#  Currently Working On
 
 - Learning Next.js deeply
 - Building Full Stack MERN Projects
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 📝 VaultNote
+##  VaultNote
 A full-stack MERN notes application with authentication and modern responsive UI.
 
 🔗 Live Demo: [View Project](https://voicenote-alpha.vercel.app/)  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/voice-vault)
 
 
-## ✍️ VaultVoice
+##  VaultVoice
 A server-rendered blogging platform built using Node.js, Express, and EJS.
 
 🔗 Live Demo: [View Project](https://voice-vault-sbrg.onrender.com/)  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/voice-vault)
 
 
 
-## 🔥 NoZeroDays App
+##  NoZeroDays App
 A productivity-focused web application designed to help users stay consistent and track progress.
 
 🔗 Live Demo: [View Project](https://react-no-zero-days-app.vercel.app/)  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/react-no-zero-days-app)
 
 
-## 🎬 MovieSearch App
+##  MovieSearch App
 A movie discovery application that fetches and displays movie data using external APIs.
 
 🔗 Live Demo: [View Project](https://react-movie-search-app-mu.vercel.app/)  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/react-movie-search-app)
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hafeez-07&theme=tokyonight&hide_border=false)
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![Hafeez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hafeez-07&theme=tokyo-night)](https://github.com/hafeez-07)
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hafeez-mohd" target="_blank">
