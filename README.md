@@ -57,7 +57,7 @@
 ##  VaultNote
 A full-stack MERN notes application with authentication and modern responsive UI.
 
-🔗 Live Demo: [View Project](https://voicenote-alpha.vercel.app/)  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/voice-vault)
+🔗 Live Demo: [View Project](https://voicenote-alpha.vercel.app/)  📂 GitHub Repo: [Repository](https://github.com/hafeez-07/VaultNote/)
 
 
 ##  VaultVoice
