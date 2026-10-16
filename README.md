@@ -108,5 +108,7 @@ A movie discovery application that fetches and displays movie data using externa
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-
+ <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hafeez-07&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
